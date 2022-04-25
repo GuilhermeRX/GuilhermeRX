@@ -41,3 +41,5 @@ Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil e atualmente em
   <a href="mailto:guilhermerx18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
 
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeRx" alt="GuilhermeRx" /> </p>
+⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
