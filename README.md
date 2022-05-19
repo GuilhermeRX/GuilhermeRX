@@ -10,7 +10,7 @@ Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil e atualmente em
 
 <p>
   
-  [![GuilhermeRx GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRx&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![GuilhermeRx GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRx&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
   
