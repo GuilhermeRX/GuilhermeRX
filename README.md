@@ -1,4 +1,4 @@
-Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil e atualmente em transição de carreira estudando Desenvolvimento Web Full Stack na **Trybe**.
+Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil. Atualmente atuando como Summer de Instrução e estudando Desenvolvimento Web Full Stack na **Trybe**.
 
 - 👨🏽‍💻 Estou atualmente no módulo de Back End aprendendo tudo sobre **TypeScript**; 
 - 🤔 Meus hobbies são séries, filmes e jogos online;
