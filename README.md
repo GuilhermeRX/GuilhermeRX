@@ -4,7 +4,7 @@ Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil. Atualmente atu
 - 🤔 Meus hobbies são séries, filmes e jogos online;
 - 💼 Sempre em busca de conhecimento;
 - 📫 Envie um email para **guilhermerx18@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="https://drive.google.com/file/d/168h4y7dOvEh7hWHtFBr2eZrj1Rxo7PdW/view?usp=sharing" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Veja meu Curriculum Vitae <a href="https://drive.google.com/file/d/1gno9zhHbD19BRCraYMPuaKpTvq_Q9Kq6/view?usp=sharing" target="_blank">clicando aqui</a> para mais informações.
 
 <br>
 
