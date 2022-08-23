@@ -52,7 +52,6 @@ Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil. Atualmente atu
 
 
 
-
 ## Redes Sociais
   
 <div align="center">
