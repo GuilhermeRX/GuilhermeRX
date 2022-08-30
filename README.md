@@ -1,6 +1,6 @@
 Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil. Atualmente atuando como Summer de Instrução e estudando Desenvolvimento Web Full Stack na **Trybe**.
 
-- 👨🏽‍💻 Estou atualmente no módulo de Back End aprendendo tudo sobre **Programação Orientada a Objetos (POO) e SOLID**; 
+- 👨🏽‍💻 Estou atualmente no módulo de Back End aprendendo tudo sobre **MongoDB**; 
 - 🤔 Meus hobbies são séries, filmes e jogos online;
 - 💼 Sempre em busca de conhecimento;
 - 📫 Envie um email para **guilhermerx18@gmail.com** para me encontrar.
@@ -43,6 +43,7 @@ Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil. Atualmente atu
     <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
     <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'>
     <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
   </div>
   <div align="center">
     <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
