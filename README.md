@@ -1,6 +1,6 @@
 Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil. Atualmente atuando como Summer de Instrução e estudando Desenvolvimento Web Full Stack na **Trybe**.
 
-- 👨🏽‍💻 Estou atualmente no módulo de Back End aprendendo tudo sobre **MongoDB**; 
+- 👨🏽‍💻 Estou atualmente no módulo de Ciência da Computação e aprendendo tudo sobre **Python**; 
 - 🤔 Meus hobbies são séries, filmes e jogos online;
 - 💼 Sempre em busca de conhecimento;
 - 📫 Envie um email para **guilhermerx18@gmail.com** para me encontrar.
