@@ -1,4 +1,4 @@
-Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil. Atualmente atuando como Software Developer na Devnology.
+Olá, me chamo **Luiz Guilherme**, sou do Rio de Janeiro, Brasil. Atualmente atuando como Software Developer na IN8.
 
 - 👨🏽‍💻 Formado em Desenvolvimento Web Full Stack na **Trybe**; 
 - 🤔 Meus hobbies são séries, filmes e jogos online;
